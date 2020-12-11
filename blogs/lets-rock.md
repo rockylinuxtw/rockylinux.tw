@@ -1,6 +1,6 @@
 ---
 title: "Let's rock !"
-date: 2020-12-12
+date: 2020-12-11
 author: "Rocky Linux Taiwan"
 categories:
   - news 
