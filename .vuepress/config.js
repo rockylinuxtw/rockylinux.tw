@@ -1,6 +1,6 @@
 module.exports = {
   "title": "Rocky Linux Taiwan",
-  "description": "",
+  "description": "The website of the Rocky Linux Taiwan Community.",
   "dest": "public",
   "head": [
     [
