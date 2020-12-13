@@ -28,7 +28,7 @@ module.exports = {
       },
       {
         "text": "RSS",
-        "link": "/rss.xml",
+        "link": "https://rockylinux.tw/rss.xml",
         "icon": "reco-rss",
       },
       {
