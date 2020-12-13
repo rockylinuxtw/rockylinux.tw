@@ -28,7 +28,7 @@ module.exports = {
       },
       {
         "text": "RSS",
-        "link": "/rss.xml",
+        "link": "https://rockylinux.tw/rss.xml",
         "icon": "reco-rss",
       },
       {
@@ -72,7 +72,8 @@ module.exports = {
     "author": "Rocky Linux Taiwan",
     "authorAvatar": "/logo.png",
     "record": "",
-    "startYear": "2020"
+    "startYear": "2020",
+    "noFoundPageByTencent": false
   },
   "markdown": {
     // options for markdown-it-anchor
