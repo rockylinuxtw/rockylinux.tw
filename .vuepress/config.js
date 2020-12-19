@@ -41,14 +41,14 @@ module.exports = {
             "icon": "reco-home"
           },
           {
-            "text": "Twitter",
-            "link": "https://twitter.com/rocky_linux",
-            "icon": "reco-twitter"
+            "text": "[TW] Telegram 群組",
+            "link": "https://t.me/rockylinuxtw",
+            "icon": "fa-telegram"
           },
           {
-            "text": "GitHub",
-            "link": "https://github.com/rocky-linux/rocky",
-            "icon": "reco-github"
+            "text": "[CN] 中文社区",
+            "link": "https://www.rockylinux.cn",
+            "icon": "reco-blog"
           }
         ]
       }
