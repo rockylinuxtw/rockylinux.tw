@@ -1,6 +1,6 @@
 ---
-title: "如何參與 Rocky Linux 以及相關資源"
-date: 2020-12-19
+title: "如何參與 Rocky Linux 以及獲取相關資源"
+date: 2020-12-20
 author: "Rocky Linux Taiwan"
 categories:
   - resource
