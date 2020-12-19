@@ -26,7 +26,7 @@ Please use Traditional Chinese and English for the contribution and discussion o
 3. PRs will be merged once your changes have been reviewed.
 4. To speed up the review progress, you may send a message to [Rocky Linux Taiwan Telegram](https://t.me/rockylinuxtw) to remind moderators.
 
-### Pledge
+## Pledge
 
 請注意，這個 repository 是以 `BSD-3 license` 形式公開。當您發佈任何修改、貢獻時，我們將視為您同意此規範。
 
