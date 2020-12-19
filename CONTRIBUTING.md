@@ -1,8 +1,10 @@
 # Contributing
 
-謝謝您的參與，這個 repository 歡迎任何人的貢獻。在您想要新增任何文章前，請先確認同樣的資訊是否已經被發佈過了，然後發送 Pull Request 前也請遵循如下的規範。
+謝謝您的參與，這個 repository 歡迎任何人的貢獻。在您想要做任何修改前，請先確認有沒有人已經發佈過類似的修改，然後發送 Pull Request 前也請遵循下面的規範。
+另外在 GitHub 上的貢獻和討論請都以中文或英文為主，方便社群一起討論參與。
 
-Greeting! Thank you very much for willing to contribute new posts to this repository, please first take a look whether if the information you would like to share is already posted. If it is not, please kindly find these policies before sending your PR.
+Greeting! Thank you very much for willing to contribute to this repository, please first take a look whether if the modification you would like to make is already posted. If it is not, please kindly find these policies before sending your PR.
+Please use Traditional Chinese and English for the contribution and discussion on GitHub.
 
 ## Commits
 
