@@ -1177,15 +1177,31 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vuepress-reco/vuepress-plugin-back-to-top@^1.5.7":
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-back-to-top/-/vuepress-plugin-back-to-top-1.5.7.tgz#ae65e3ba484d0873ad58591e939fe58a4e46e7de"
-  integrity sha512-wQwPch7chcbIUsIKJNQxirdmvV3RQE8pVGb1WWxJa2GA4EtrXLiwYTBZTjx6PpWU2pUH+5mYT+aRL92liyfWRQ==
+"@vue/composition-api@^1.0.0-beta.20":
+  version "1.0.0-beta.21"
+  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-beta.21.tgz#d5a3c68afc8b569dfc3eccd69998388bb7f6a16c"
+  integrity sha512-tgbvDpLvKQ1GrII424wsoyzPCsG0oTFf38emMq495SfLY7RmUqhVIl81pvnC5489PPrCxDkbauJHJrhlcXfbTQ==
+  dependencies:
+    tslib "^2.0.1"
 
-"@vuepress-reco/vuepress-plugin-comments@^1.5.7":
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-comments/-/vuepress-plugin-comments-1.5.7.tgz#c1d9709c9d80bed79d860b2962b0be7d17a62d39"
-  integrity sha512-/z9SSDor9CBa/7jExPmvZSTvngcn2S2ILMvI707PJ4/rWe7NsqHPSq3neVL9mllxwy4v7CufRKBz5WSQBILlmQ==
+"@vuepress-reco/core@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/core/-/core-1.6.0.tgz#32595232ed42725c348563c340fa37ab646baa83"
+  integrity sha512-rNNgwMaUV08NhZa21/cmWpYTWL4gM4DTVWMUH8/lk/UxLOtXxW53k6bDZ4wA1Fb5FncDoLDbGnBqX/FIjj4C9A==
+  dependencies:
+    "@vue/composition-api" "^1.0.0-beta.20"
+    vue "^2.6.12"
+    vue-property-decorator "^9.1.2"
+
+"@vuepress-reco/vuepress-plugin-back-to-top@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-back-to-top/-/vuepress-plugin-back-to-top-1.6.0.tgz#16cf1a6844f156c11d5135c646270c6734263eb6"
+  integrity sha512-BCEv+d6UwNnI7njQx54XcsKdBvHKkp+JmyKnrxcRltyR8OAIW4qf1PQC0Ypp1GHMAL4fFgbUc9/eeAkvMPgYkg==
+
+"@vuepress-reco/vuepress-plugin-comments@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-comments/-/vuepress-plugin-comments-1.6.0.tgz#df9fb43ce032d429b4c6defcaef461420593f69f"
+  integrity sha512-L6ppzOHGv/Fqrs68mmF2ubYkWoINR3lsCocIeyPqPIaBO6joGS6QX1focm0Fwa6pG7mvzSdVn7dTUS5+wJ9hxQ==
   dependencies:
     "@vssue/api-bitbucket-v2" "^1.1.1"
     "@vssue/api-gitee-v5" "^1.4.4"
@@ -1195,15 +1211,15 @@
     valine "^1.4.14"
     vssue "^1.4.6"
 
-"@vuepress-reco/vuepress-plugin-loading-page@^1.5.7":
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-loading-page/-/vuepress-plugin-loading-page-1.5.7.tgz#b673d10cb18a579008c3487d860984c81cffd340"
-  integrity sha512-1Ozzv3WfL/+cNaO9czY8gOW2DbZISe7XC5kQeKVhLlNhqqLYMMNVr+fRbafMCJA4AFWsz2N2QlBB/bASX+qKwA==
+"@vuepress-reco/vuepress-plugin-loading-page@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-loading-page/-/vuepress-plugin-loading-page-1.6.0.tgz#34b72ed342dc9b15021d077ff8faeafe52146159"
+  integrity sha512-yz/KbBq+CY8zxSkeTWHmKB7piFhSQxb9YD07Q9LDjszggL+nW2E5Lipsskay7OTIBQnlGNfSaukAqAJQp6NDug==
 
-"@vuepress-reco/vuepress-plugin-pagation@^1.5.7":
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-pagation/-/vuepress-plugin-pagation-1.5.7.tgz#f4b371744328bd5c3f979b7cd32547331fe52a94"
-  integrity sha512-P/0x4dgdMZrN/rwh5Z802EseCwp9osRv+KpV1Du2/YOY3OWKuPazGyywfjqiAmXdFWcV62jMU4b5AQ+nhVou2g==
+"@vuepress-reco/vuepress-plugin-pagation@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-pagation/-/vuepress-plugin-pagation-1.6.0.tgz#c632aae1638ff9c67fe58c39ab617132be9eeecb"
+  integrity sha512-QvmAqfbCnkvdLU0/yZWkFrL/PJgKhciB3FWgJu756FH66iqO/QKDPaZ1vlzI3RfYOIEwLEhPd1U9Rvt9ICaQtQ==
 
 "@vuepress-reco/vuepress-plugin-rss@1.0.2":
   version "1.0.2"
@@ -7926,6 +7942,11 @@ tslib@^1.9.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
+tslib@^2.0.1:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
+  integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
+
 tty-browserify@0.0.0:
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/tty-browserify/-/tty-browserify-0.0.0.tgz#a157ba402da24e9bf957f9aa69d524eed42901a6"
@@ -8298,6 +8319,11 @@ vue-property-decorator@^8.1.1:
   dependencies:
     vue-class-component "^7.1.0"
 
+vue-property-decorator@^9.1.2:
+  version "9.1.2"
+  resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-9.1.2.tgz#266a2eac61ba6527e2e68a6933cfb98fddab5457"
+  integrity sha512-xYA8MkZynPBGd/w5QFJ2d/NM0z/YeegMqYTphy7NJQXbZcuU6FC6AOdUAcy4SXP+YnkerC6AfH+ldg7PDk9ESQ==
+
 vue-router@^3.1.3:
   version "3.4.9"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.9.tgz#c016f42030ae2932f14e4748b39a1d9a0e250e66"
@@ -8338,7 +8364,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue@^2.6.10:
+vue@^2.6.10, vue@^2.6.12:
   version "2.6.12"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
   integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
@@ -8418,15 +8444,17 @@ vuepress-plugin-smooth-scroll@^0.0.9:
   dependencies:
     smoothscroll-polyfill "^0.4.4"
 
-vuepress-theme-reco@1.5.7:
-  version "1.5.7"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-reco/-/vuepress-theme-reco-1.5.7.tgz#100c92b33dcd931874952ac4eb27e123cfbf87ce"
-  integrity sha512-EFhePs61GGrDNwM8Y3JF7/oxh2ffcxGZNkHPZk8LTEjdj+jOQrMtTSqAD3wnK+NY/xbhwsDo60ByJ9ItwSm54w==
+vuepress-theme-reco@1.6.1:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-reco/-/vuepress-theme-reco-1.6.1.tgz#77b78df7af36c27ebbbcfceab916d6cb18aa2e25"
+  integrity sha512-WmeDWPg0VksyRfxcwGa/SLMEehlhTbS/mhX9HJQRJgNIDE9518GvI/henmMsc6ydvjEipdw/w4z7j9sz2aAI4Q==
   dependencies:
-    "@vuepress-reco/vuepress-plugin-back-to-top" "^1.5.7"
-    "@vuepress-reco/vuepress-plugin-comments" "^1.5.7"
-    "@vuepress-reco/vuepress-plugin-loading-page" "^1.5.7"
-    "@vuepress-reco/vuepress-plugin-pagation" "^1.5.7"
+    "@vue/composition-api" "^1.0.0-beta.20"
+    "@vuepress-reco/core" "^1.6.0"
+    "@vuepress-reco/vuepress-plugin-back-to-top" "^1.6.0"
+    "@vuepress-reco/vuepress-plugin-comments" "^1.6.0"
+    "@vuepress-reco/vuepress-plugin-loading-page" "^1.6.0"
+    "@vuepress-reco/vuepress-plugin-pagation" "^1.6.0"
     "@vuepress/plugin-blog" "1.9.2"
     "@vuepress/plugin-medium-zoom" "1.5.0"
     docsearch.js "2.6.3"
