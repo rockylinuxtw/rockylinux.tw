@@ -8,7 +8,7 @@ Please use Traditional Chinese and English for the contribution and discussion o
 
 ## Commits
 
-1. 新增文章的格式規範可以參考 `INDEX.md` 的檔案。
+1. 新增文章的格式規範可以參考 `index.md` 的檔案。
 2. 如果要修改之前發佈的文章(例如修改錯字、讓文章更流暢)，可以 tag 原作者，看是否有其他建議。
 
 1. To add a new post, you can refer to `INDEX.md` for the example format.
