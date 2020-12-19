@@ -24,10 +24,10 @@ Please use Traditional Chinese and English for the contribution and discussion o
 1. Pull Requests should be targeted towards the `develop` branch.
 2. If there is an issue related to the PR, it is recommended to link this PR to this issue.
 3. PRs will be merged once your changes have been reviewed.
-4. To speed up the review progress, you may send message to [Rocky Linux Taiwan Telegram](https://t.me/rockylinuxtw) to remind moderators.
+4. To speed up the review progress, you may send a message to [Rocky Linux Taiwan Telegram](https://t.me/rockylinuxtw) to remind moderators.
 
 ### Pledge
 
 請注意，這個 repository 是以 `BSD-3 license` 形式公開。當您發佈任何修改、貢獻時，我們將視為您同意此規範。
 
-You must understand & acknowledge that any contrubutions you submit to this repository (including comments and commits in version control history) are licensed under the `BSD-3 license`. 
+You must understand & acknowledge that any contributions you submit to this repository (including comments and commits in version control history) are licensed under the `BSD-3 license`. 
