@@ -28,7 +28,7 @@ tags:
 
 ## 台灣社群
 
-* [台灣 Rocky Linux 網站](https://rockylinux.tw/)：就是本網站，歡迎任何人參與貢獻，可以參考[貢獻方法](https://github.com/rockylinuxtw/rockylinux.tw/CONTRIBUTING.md)。
+* [台灣 Rocky Linux 網站](https://rockylinux.tw/)：就是本網站，歡迎任何人參與貢獻，可以參考[貢獻方法](https://rockylinux.tw/CONTRIBUTING.html)。
 * [Rocky Linux Taiwan Telegram](https://t.me/rockylinuxtw)：台灣關於 Rocky Linux 的討論目前先以 Telegram 為主，歡迎大家踴躍加入討論。
 
 ## 其他社群
