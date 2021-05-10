@@ -40,7 +40,7 @@ Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成了 Rocky Linux
 請加入我們在 Mattermost 上的[~測試頻道](https://chat.rockylinux.org/rocky-linux/channels/testing)。
 在我們的論壇上也有[測試文章](https://forums.rockylinux.org/c/devel/testing/19)來提供更持久的對話與討論。
 
-> 我要在哪裡找到 Rocky Linux 的最新消息?的最新消息?
+> 我要在哪裡找到 Rocky Linux 的最新消息?
 
 請隨時關注我們的[官方網站](https://rockylinux.org)、[推特](https://twitter.com/rocky_linux)、[領英](https://linkedin.com/company/rockylinux)、[論壇](https://forums.rockylinux.org)和我們列在[連結倉庫](https://wiki.rockylinux.org/en/link-directory)裡的任何其他平台來獲取最新的消息。
 
