@@ -1,8 +1,11 @@
 ---
-title: Rocky Linux 8.3 RC1 版本釋出
-date: '2021-04-30'
-description: 'Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成了 Rocky Linux 8.3 的一號候釋版的一般可用性。'
-posttype: '新聞'
+title: "Rocky Linux 8.3 RC1 版本釋出"
+date: 2021-04-30
+author: "Rocky Linux Taiwan"
+categories:
+  - news 
+tags:
+  - release
 ---
 
 Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成了 Rocky Linux 8.3 在 x86_64 和 aarch64 平台上的一號候釋版的一般可用性。
