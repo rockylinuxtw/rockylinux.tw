@@ -5,7 +5,7 @@ description: 'Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成�
 posttype: '新聞'
 ---
 
-Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成了 Rocky Linux 8.3 在 x86_64 和  aarch64 平台上的一號候釋版的一般可用性。
+Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成了 Rocky Linux 8.3 在 x86_64 和 aarch64 平台上的一號候釋版的一般可用性。
 
 請在 [https://rockylinux.org/download](https://rockylinux.org/download) 下載這個釋出版本。
 
