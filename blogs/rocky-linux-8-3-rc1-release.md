@@ -21,7 +21,7 @@ Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成了 Rocky Linux
 
 [https://rockylinux.org/download](https://rockylinux.org/download)
 
-> 要怎麼幫候釋版和未來的釋出版本鏡像?
+> 要怎麼幫候釋版和未來的釋出版本提供鏡像服務?
 
 請寄 Email 給 [mirrors@rockylinux.org](mailto:mirrors@rockylinux.org) 並說明您的來意。
 
@@ -60,7 +60,7 @@ Rocky 企業軟體基金會 (RESF) 很榮幸地在此宣布達成了 Rocky Linux
 而至 2021 年 2 月為止，我們在各種社交平台和新聞上獲得了超越 8000 萬個點擊次數。
 
 在四個月後的現在，我們有了一個真正的開源社群企業級作業系統。
-不僅如此，我們還有一個社群，而遠不僅只是一個 Linux 發行版而已。
+不僅如此，我們還有一個社群，而遠不只是一個 Linux 發行版而已。
 
 我們在這裡要特別感謝我們的贊助商與合作夥伴──
 他們提供的資源、財務支援，軟體和基礎架構的貢獻對於支持我們的工作至關重要：
