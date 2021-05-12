@@ -22,7 +22,7 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "TimeLine",
+        "text": "時間軸",
         "link": "/timeline/",
         "icon": "reco-date"
       },
@@ -32,7 +32,7 @@ module.exports = {
         "icon": "reco-rss",
       },
       {
-        "text": "Links",
+        "text": "連結列表",
         "icon": "reco-menu",
         "items": [
           {
@@ -61,7 +61,7 @@ module.exports = {
       },
       "tag": {
         "location": 2,
-        "text": "Tag"
+        "text": "標籤"
       }
     },
     "friendLink": [],
