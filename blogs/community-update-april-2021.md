@@ -9,23 +9,25 @@ tags:
 ---
 ## 摘要
 
-這個月因為 Rocky Linux 8.3 的候釋版本即將推出的緣故，我們忙得手忙腳亂。  
-開發團隊定期在 [~Dev/Packaging channel](https://chat.rockylinux.org/rocky-linux/channels/dev-packaging) 與社群定期舉辦黑客松，現在我們是自己架設的了（不再依賴上游套件），並且製作並測試了最小容量的 ISO。
+由於我們在這個月即將推出 Rocky Linux 8.3 的候釋版本，所以我們忙得手忙腳亂。  
+開發團隊定期在 [~Dev/Packaging channel](https://chat.rockylinux.org/rocky-linux/channels/dev-packaging) 與社群舉辦黑客松，我們現在是自己架設的了（不再依賴上游套件），並且製作並測試了最小容量的 ISO。
 
-基礎團隊不辭辛勞地建立了鏡像管理器，同時我們也和許多提供鏡像服務提供者取得聯繫。  
-網站團隊也準備好了下載頁面和文件網站，我們團隊將會在那裡撰寫優秀的內容。
+基礎團隊也建立了鏡像管理器，同時我們也和許多提供鏡像服務提供者取得聯繫。  
+網站團隊也架設了下載頁面及文件網站，我們的團隊將會在那裡撰寫優秀的內容。
 
-此外我們也建立了測試團隊，負責候釋版本的驗證和錯誤回報。最後，我們很開心宣布，Fastly 和 NAVER Cloud 成為了我們的合作伙伴（另外還有一些好東西即將宣布）。
+此外，我們也創立了測試團隊，負責候釋版本的驗證及錯誤回報。
+
+最後，我們很開心宣布，Fastly 和 NAVER Cloud 成為了我們的合作伙伴（另外還有一些好消息要與大家分享）。
 
 <!-- more -->
 
 ## 時間軸
 
-- 編譯系統和基礎設施準備就緒 - 1月31日 [完成]
-- 負責自動套件部署的基礎設施 - 1月31日 [完成]
-- 公開測試套件倉庫 - 2月28日 [完成]
-- 安裝程式測試準備就緒--2月28日 [完成]
-- 預估社群測試所需時間 - 4月30日 [按計劃進行中]
+- 編譯系統和基礎設施 - 1月31日 [完成]
+- 負責套件自動部署的基礎設施 - 1月31日 [完成]
+- 套件倉庫公開測試 - 2月28日 [完成]
+- 安裝程式測試 - 2月28日 [完成]
+- 預估社群測試時間 - 4月30日 [按計劃進行中]
 - 候釋版本的可用性 - 4月30日 [按計劃進行中] 。
 
 # 團隊更新
@@ -34,17 +36,18 @@ tags:
 
 在 Mattermost 伺服器上已經建立了 [~Merchandise](https://chat.rockylinux.org/rocky-linux/channels/merchandise) 頻道，以及 @merchcustomerservice 帳戶（你也可以在論壇上找到他），用於所有與行銷有關的諮詢。
 
-社群正在尋找新成員！若您對經營社群媒體有興趣，且擅長組織活動及與其他團隊合作，心動不如馬上行動！請立即加入我們 Mattermost 伺服器上的 [~Community channel](https://chat.rockylinux.org/rocky-linux/channels/community)，並聯繫 @jorp 來了解更多細節。
+社群正在尋找新成員！  
+若您對經營社群媒體有興趣，且擅長組織活動及與其他團隊合作，心動不如馬上行動！請立即加入我們 Mattermost 伺服器上的 [~Community channel](https://chat.rockylinux.org/rocky-linux/channels/community)，並聯繫 @jorp 來了解更多細節。
 
 ### 活動
 
-- 我們為 [2021-03-26 Q&A Session](https://www.youtube.com/watch?v=ULPGVBLLGuc) 中的所有問題在資訊欄中標記了時間。
-- Wolves Linux Users Group 將於 2021-04-28 at 15:30 ET [19:30 UTC] 與 Gregory Kurtzer 和 R. Leigh Hennig 舉辦一場講座，你可以在 [Meetup](https://wolveslug.org.uk/event/talk-rocky-linux-28th-april-2021/) 上找到關於這個活動的更多細節。
+- 我們在 [2021-03-26 Q&A Session](https://www.youtube.com/watch?v=ULPGVBLLGuc) 中的所有問題在資訊欄中標記了時間。
+- Wolves Linux Users Group 將於 2021-04-28 at 15:30 ET [19:30 UTC] 與 Gregory Kurtzer 及 R. Leigh Hennig 舉辦一場講座，你可以在 [Meetup](https://wolveslug.org.uk/event/talk-rocky-linux-28th-april-2021/) 上找到關於這個活動的更多細節。
 
 ## 文件
 
-主要的文件網站仍在準備中，你可以在 [GitHub](https://github.com/rocky-linux/documentation/) 上協助文件撰寫和在地化。  
-請務必查看 Mattermost 上的 [~Documentation channel](https://chat.rockylinux.org/rocky-linux/channels/documentation)，若您有興趣協助這項工作，請聯絡 @wale! 在接下來的幾個月裡將會忙得不可開交，快來幫忙吧！
+主要的文件網站仍在準備中，你可以在 [GitHub](https://github.com/rocky-linux/documentation/) 上協助文件撰寫及翻譯。  
+若您有興趣協助這項工作，請務必查看 Mattermost 上的 [~Documentation channel](https://chat.rockylinux.org/rocky-linux/channels/documentation) 並請聯絡 @wale！在接下來的幾個月裡將會忙得不可開交，快來幫忙吧！
 
 ## 基礎建設
 
@@ -54,11 +57,11 @@ tags:
 
 ### 維護
 
-我們成功將 Mattermost 伺服器升級到 5.34.2。你可以在論壇上找到 [維護公告](https://forums.rockylinux.org/t/mattermost-maintenance-2021-04-18-02-00-utc-to-2021-04-18-05-00-utc/2309)，或查看 [Mattermost 更新日誌](https://docs.mattermost.com/administration/changelog.html#release-v5-34-feature-release) 了解更多細節。
+我們將 Mattermost 伺服器升級到 5.34.2。你可以在論壇上找到 [維護公告](https://forums.rockylinux.org/t/mattermost-maintenance-2021-04-18-02-00-utc-to-2021-04-18-05-00-utc/2309)，或查看 [Mattermost 更新日誌](https://docs.mattermost.com/administration/changelog.html#release-v5-34-feature-release) 了解更多細節。
 
 ### status.rockylinux.org
 
-現於 [status.rockylinux.org](https://status.rockylinux.org/) 有個用於即時監控 Rocky Linux 相關系統的頁面。
+現在，我們有一個監控 Rocky Linux 相關系統的頁面 [status.rockylinux.org](https://status.rockylinux.org/)。
 
 ### Bugzilla
 
