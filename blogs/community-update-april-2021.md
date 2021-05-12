@@ -9,7 +9,13 @@ tags:
 ---
 ## 摘要
 
-這個月因為 Rocky Linux 8.3 的候釋版本即將推出的緣故，我們忙得手忙腳亂。開發團隊定期在 [~Dev/Packaging channel](https://chat.rockylinux.org/rocky-linux/channels/dev-packaging) 與社群定期舉辦黑客松，現在我們是自己架設的了（不再依賴上游套件），並且製作並測試了最小容量的 ISO。基礎團隊不辭辛勞地建立了鏡像管理器，同時我們也和許多提供鏡像服務提供者取得聯繫。網站團隊也準備好了下載頁面和文件網站，我們團隊將會在那裡撰寫優秀的內容。此外我們也建立了測試團隊，負責候釋版本的驗證和錯誤回報。最後，我們很開心宣布，Fastly 和 NAVER Cloud 成為了我們的合作伙伴（另外還有一些好東西即將宣布）。
+這個月因為 Rocky Linux 8.3 的候釋版本即將推出的緣故，我們忙得手忙腳亂。  
+開發團隊定期在 [~Dev/Packaging channel](https://chat.rockylinux.org/rocky-linux/channels/dev-packaging) 與社群定期舉辦黑客松，現在我們是自己架設的了（不再依賴上游套件），並且製作並測試了最小容量的 ISO。
+
+基礎團隊不辭辛勞地建立了鏡像管理器，同時我們也和許多提供鏡像服務提供者取得聯繫。  
+網站團隊也準備好了下載頁面和文件網站，我們團隊將會在那裡撰寫優秀的內容。
+
+此外我們也建立了測試團隊，負責候釋版本的驗證和錯誤回報。最後，我們很開心宣布，Fastly 和 NAVER Cloud 成為了我們的合作伙伴（另外還有一些好東西即將宣布）。
 
 <!-- more -->
 
@@ -37,7 +43,8 @@ tags:
 
 ## 文件
 
-主要的文件網站仍在準備中，你可以在 [GitHub](https://github.com/rocky-linux/documentation/) 上協助文件撰寫和在地化。請務必查看 Mattermost 上的 [~Documentation channel](https://chat.rockylinux.org/rocky-linux/channels/documentation)，若您有興趣協助這項工作，請聯絡 @wale! 在接下來的幾個月裡將會忙得不可開交，快來幫忙吧！
+主要的文件網站仍在準備中，你可以在 [GitHub](https://github.com/rocky-linux/documentation/) 上協助文件撰寫和在地化。  
+請務必查看 Mattermost 上的 [~Documentation channel](https://chat.rockylinux.org/rocky-linux/channels/documentation)，若您有興趣協助這項工作，請聯絡 @wale! 在接下來的幾個月裡將會忙得不可開交，快來幫忙吧！
 
 ## 基礎建設
 
@@ -70,7 +77,10 @@ tags:
 
 ## 測試
 
-測試團隊正迅速成長中！若您有興趣協助 Rocky Linux 發布一般可用性（GA）版本，請務必加入我們 Mattermost 伺服器上的 [~Testing channel](https://chat.rockylinux.org/rocky-linux/channels/testing)。這個團隊現在已經開了兩次會，討論 Rocky Linux 釋出版本的人工及自動測試與硬體認證。你可以在 [這個](https://docs.google.com/document/d/1wjwQCAM2wg-P_MNKXlI_LZ27TvAqKOZbloGF7Cam7rU/edit) 文件中查看我們正在進行中的事項，，若您需要權限，請在 Mattermost 上聯繫 Jessica Jonutz（@jessjonutz）（目前我們正在使用 Google 文件，直到 Wiki 準備好）。
+測試團隊正迅速成長中！若您有興趣協助 Rocky Linux 發布一般可用性（GA）版本，請務必加入我們 Mattermost 伺服器上的 [~Testing channel](https://chat.rockylinux.org/rocky-linux/channels/testing)。
+
+這個團隊現在已經開了兩次會，討論 Rocky Linux 釋出版本的人工及自動測試與硬體認證。  
+你可以在 [這個](https://docs.google.com/document/d/1wjwQCAM2wg-P_MNKXlI_LZ27TvAqKOZbloGF7Cam7rU/edit) 文件中查看我們正在進行中的事項，，若您需要權限，請在 Mattermost 上聯繫 Jessica Jonutz（@jessjonutz）（目前我們正在使用 Google 文件，直到 Wiki 準備好）。
 
 ## 特別目標小組更新
 
