@@ -13,7 +13,7 @@ tags:
 Rocky 企業軟體基金會 (RESF) 很高興地宣布 Rocky Linux 8.4 將適用於以下架構：
 
 我們進行了足夠的測試，因此對於系統用於生產環境的穩定性充滿信心。  
-免費的社群支援可透過 Rocky Linux [Mattermost](https://chat.rockylinux.org/)、[IRC](https://libera.chat/) 及[論壇](https://forums.rockylinux.org/) 取得，目前可透過 CIQ 獲得商業支援
+目前可透過 CIQ 獲得商業支援，或透過 Rocky Linux [Mattermost](https://chat.rockylinux.org/)、[IRC](https://libera.chat/) 及[論壇](https://forums.rockylinux.org/) 取得免費的社群支援。
 
 --
 
@@ -29,9 +29,9 @@ Rocky 企業軟體基金會 (RESF) 很高興地宣布 Rocky Linux 8.4 將適用�
     - Amazon Web Services
     - Google Cloud Platform
 
-我們會持續擴大產品範圍，請繼續關注公告
+我們會持續擴大產品範圍，請繼續關注公告。
 
-若有遇到任何錯誤或問題，可以透過 [Bugzilla](https://bugs.rockylinux.org/) 回報給我們
+若有遇到任何錯誤或問題，可以透過 [Bugzilla](https://bugs.rockylinux.org/) 回報給我們。
 
 --
 
@@ -40,7 +40,7 @@ Rocky 企業軟體基金會 (RESF) 很高興地宣布 Rocky Linux 8.4 將適用�
 Rocky 不僅僅是下一個免費開源的社群企業操作系統，同時也是一個社群。  
 對理想的承諾大於其各部分的總和，我們承諾的 [原則](https://rockylinux.org/community-charter/)（甚至嵌入到我們的存儲庫和 ISO 中）是不會變的。
 
-我們要特別感謝我們的贊助商及合作夥伴，他們提供的資源、資金、軟體及基礎設施對我們來說無比重要
+我們要特別感謝我們的贊助商及合作夥伴，他們提供的資源、資金、軟體及基礎建設對我們來說無比重要：
 
 - [45Drives](https://www.45drives.com/)
 - [Amazon Web Services](https://aws.amazon.com/)
@@ -54,14 +54,14 @@ Rocky 不僅僅是下一個免費開源的社群企業操作系統，同時也�
 - [NAVER Cloud](https://www.ncloud.com/)
 - [OpenDrives](https://opendrives.com/)
 
-每位都為社群帶來一些特別的東西，我們非常感謝他們的協助
+這些企業都為社群帶來一些特別的東西，我們非常感謝他們的協助！
 
 --
 
 最後，這只是一個開始，RESF 不僅僅是 Rocky Linux，對於那些相信開源不僅是一個可以隨意切換的開關，而且許多人依賴的項目不會受制於少數人的心血來潮的人來說，這是一個家。
 
-到目前為止，您可以輕鬆找到我們所有的原始程式碼、基礎設施、Git 存儲庫及任何人需要 Fork 我們的工作，並確保在需要時繼續進行的所有內容。  
-在接下來的幾周和幾個月內，RESF 預計會提供更多信息。
+到目前為止，您可以輕鬆找到我們所有的原始程式碼、基礎建設、Git 存儲庫及任何人需要 Fork 我們的工作，並確保在需要時繼續進行的所有內容。  
+在接下來的幾周和幾個月內，RESF 預計會提供更多資訊。
 
 當我們宣布我們的後釋版本時，我們邀請您與我們一起建構下一個免費、開源的社群企業操作系統。  
 加入我們，共同建立我們的社區。
@@ -70,4 +70,4 @@ Rocky 不僅僅是下一個免費開源的社群企業操作系統，同時也�
 
 - Rocky Enterprise Software Foundation 執行董事 Gregory Kurtzer
 
-此致，Rocky 企業軟體基金會 https://rockylinux.org
+Rocky 企業軟體基金會 https://rockylinux.org，致此。
