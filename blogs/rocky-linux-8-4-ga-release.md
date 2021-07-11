@@ -19,13 +19,13 @@ Rocky 企業軟體基金會 (RESF) 很高興地宣布 Rocky Linux 8.4 將適用�
 
 [下載 Rocky Linux 8.4](https://rockylinux.org/download/) [發佈說明](https://docs.rockylinux.org/release_notes/8.4)
 
-我們也在以下提供內容：
+以下是我們目前提供的資源：
 
-- Container Images
+- 容器映像檔
     - [Docker Hub](https://hub.docker.com/r/rockylinux/rockylinux/tags)
     - [Quay.io](https://quay.io/repository/rockylinux/rockylinux?tab=tags)
 
-- Cloud Offerings
+- 雲端資源
     - Amazon Web Services
     - Google Cloud Platform
 
@@ -35,10 +35,10 @@ Rocky 企業軟體基金會 (RESF) 很高興地宣布 Rocky Linux 8.4 將適用�
 
 --
 
-商業化的利益是短暫並且自私的，但社群任然存在，這就是我們要將 Rocky Linux 所奉獻的給的人：您
+社群能長期存在，並將 Rocky Linux 呈現給您
 
-Rocky 不僅僅是下一個免費開源的社群企業操作系統，同時也是一個社群。  
-對理想的承諾大於其各部分的總和，我們承諾的 [原則](https://rockylinux.org/community-charter/)（甚至嵌入到我們的存儲庫和 ISO 中）是不會變的。
+Rocky 不僅僅是下一個開源的免費社群企業作業系統，同時也是一個社群。  
+我們承諾的 [原則](https://rockylinux.org/community-charter/)（甚至嵌入到我們的存儲庫和 ISO 中）是不會變的。
 
 我們要特別感謝我們的贊助商及合作夥伴，他們提供的資源、資金、軟體及基礎建設對我們來說無比重要：
 
@@ -54,11 +54,12 @@ Rocky 不僅僅是下一個免費開源的社群企業操作系統，同時也�
 - [NAVER Cloud](https://www.ncloud.com/)
 - [OpenDrives](https://opendrives.com/)
 
-這些企業都為社群帶來一些特別的東西，我們非常感謝他們的協助！
+這些企業都為社群帶來特別的貢獻，我們非常感謝他們的協助！
 
 --
 
-最後，這只是一個開始，RESF 不僅僅是 Rocky Linux，對於那些相信開源不僅是一個可以隨意切換的開關，而且許多人依賴的項目不會受制於少數人的心血來潮的人來說，這是一個家。
+最後，這只是一個開始。  
+RESF 不僅僅是 Rocky Linux，對於那些相信開源不僅是一個可以隨意切換的開關，而且許多人依賴的項目不會受制於少數人的心血來潮的人來說，這是一個家。
 
 到目前為止，您可以輕鬆找到我們所有的原始程式碼、基礎建設、Git 存儲庫及任何人需要 Fork 我們的工作，並確保在需要時繼續進行的所有內容。  
 在接下來的幾周和幾個月內，RESF 預計會提供更多資訊。
