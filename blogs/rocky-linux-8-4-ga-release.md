@@ -12,6 +12,11 @@ tags:
 
 Rocky 企業軟體基金會 (RESF) 很高興地宣布 Rocky Linux 8.4 將適用於以下架構：
 
+|Architecture|Minimal|DVD|Boot|Packages|
+|---|---|---|---|---|
+|x86_64|X|X|X|X|
+|ARM64 (aarch64)|X|X|X|X|
+
 我們進行了足夠的測試，因此對於系統用於生產環境的穩定性充滿信心。  
 目前可透過 CIQ 獲得商業支援，或透過 Rocky Linux [Mattermost](https://chat.rockylinux.org/)、[IRC](https://libera.chat/) 及[論壇](https://forums.rockylinux.org/) 取得免費的社群支援。
 
